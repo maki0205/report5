@@ -1,4 +1,4 @@
 language: bash
 script:
  -echo "TravisCIをテストします"
- -./same-test.sh 
+ -./calc-gcd-test.sh 
